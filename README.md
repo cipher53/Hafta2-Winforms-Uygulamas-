@@ -1,1 +1,1 @@
-# Hafta2-Winforms-Uygulamas-
+# Hafta2-Winforms-Uygulaması
